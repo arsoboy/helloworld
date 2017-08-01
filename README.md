@@ -1,6 +1,4 @@
-# helloworld
-My First GitHub Repository
+# My First Git Repository
+## Lesson - Git Formatting
 
-
-
-Lorem ipsum dolor sit amet consicucne...
+Hello Git world
